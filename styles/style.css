@@ -12,3 +12,24 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+
+.banner-1{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-bloom.png);
+  color: rgb(255, 255, 255);
+  font-family: "Noto Serif";
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.banner-2{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-ana.png);
+  color: rgb(255, 255, 255);
+  font-family: "Noto Serif";
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.banner-3{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-zabo.png);
+}
