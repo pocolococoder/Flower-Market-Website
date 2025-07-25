@@ -14,7 +14,7 @@
 }
 
 
-.banner-1{
+.bg-image1{
   background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-bloom.png);
   color: rgb(255, 255, 255);
   font-family: "Noto Serif";
@@ -22,7 +22,7 @@
   font-weight: 700;
 }
 
-.banner-2{
+.bg-image2{
   background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-ana.png);
   color: rgb(255, 255, 255);
   font-family: "Noto Serif";
@@ -30,7 +30,7 @@
   font-weight: 700;
 }
 
-.banner-3{
+.bg-image3{
   background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url(../assets/deal-zabo.png);
 }
 
