@@ -37,3 +37,8 @@
 .join-banner{
   background-image: url(../assets/news-letter-bg.png);
 }
+
+.icon-images img{
+  height: 25px;
+  width: 25px;
+}
